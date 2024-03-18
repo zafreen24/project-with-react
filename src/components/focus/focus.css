@@ -1,0 +1,97 @@
+#client {
+    background: rgb(244 246 252 / 50%);
+    padding: 130px 0;
+  }
+  .client_text h2 {
+    width: 327px;
+    margin-bottom: 16px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 56px; /* 147.368% */
+  }
+  
+  .client_text p {
+    width: 327px;
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    opacity: 0.7;
+  }
+  
+  .client_text_right h3 {
+    width: 843px;
+    color: #282938;
+    margin-bottom: 58px;
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px; /* 150% */
+  }
+  
+  .client_img {
+    display: flex;
+    column-gap: 20px;
+    align-items: center;
+  }
+  .client_img h4 {
+    color: #282938;
+    width: 183px;
+    /* Label 01 */
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 177.778% */
+  }
+  .client_img p {
+    color: #282938;
+    width: 183px;
+    font-family: "Poppins", sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 233.333% */
+  }
+  .client_img img {
+    width: 94.248px;
+    height: 60.339px;
+  }
+  /* .client_icon .left {
+    font-size: 28px;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    line-height: 18px;
+    padding: 20px;
+    border-radius: 50%;
+    color: #00000075;
+    transition: all 1s;
+    margin-left: 40px;
+  }
+  .client_icon .right {
+    font-size: 28px;
+    width: 55px;
+    height: 55px;
+    text-align: center;
+    line-height: 18px;
+    padding: 20px;
+    border-radius: 50%;
+    color: #00000075;
+    transition: all 1s;
+    margin-left: 40px;
+  }
+  .client_icon :hover .left  {
+    background-color: #5239fa;
+    color: white;
+  }
+  .client_icon :hover .right  {
+    background-color: #5239fa;
+    color: white;
+  } */

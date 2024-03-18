@@ -1,0 +1,110 @@
+#work {
+    padding-top: 128px;
+    padding-bottom: 128px;
+    background: #eaeffc;
+  }
+  .work_here h3 {
+    color: var(--Dark-blue, #282938);
+    font-family: "Poppins", sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 64px; /* 133.333% */
+  }
+  .work_here p {
+    color: #282938;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    padding-top: 20px;
+    margin-bottom: 48px;
+  }
+  .work_btn {
+    margin-top: 16px;
+  }
+  .work_btn .get {
+    color: #2405f2;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 177.778% */
+    position: absolute;
+  }
+  .work_btn .get .get-icon {
+    margin-left: 15px;
+  }
+  .pic-1 h4 {
+    color: var(--Dark-blue, #282938);
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px; /* 150% */
+    padding-top: 16px;
+  }
+  .pic-1 p {
+    color: var(--Dark-blue, #282938);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    padding-top: 8px;
+  }
+  .pic-2 h4 {
+    color: var(--Dark-blue, #282938);
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px; /* 150% */
+    padding-top: 16px;
+  }
+  .pic-2 p {
+    color: var(--Dark-blue, #282938);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    padding-top: 8px;
+  }
+  .pic-3 h4 {
+    color: var(--Dark-blue, #282938);
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px; /* 150% */
+    padding-top: 16px;
+  }
+  .pic-3 p {
+    color: var(--Dark-blue, #282938);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    padding-top: 8px;
+  }
+  .pic-4 h4 {
+    color: var(--Dark-blue, #282938);
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px; /* 150% */
+    padding-top: 16px;
+  }
+  .pic-4 p {
+    color: var(--Dark-blue, #282938);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    padding-top: 8px;
+  }

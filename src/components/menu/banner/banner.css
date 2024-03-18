@@ -1,0 +1,51 @@
+#banner {
+    padding-top: 218px;
+    padding-bottom: 128px;
+    background: #1c1e53;
+    position: relative;
+  }
+  .ban_content h1 {
+    color: var(--White, #fff);
+    font-family: Poppins;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 74px; /* 137.037% */
+  }
+  .ban_content p {
+    color: var(--White, #fff);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 175% */
+    padding-top: 24px;
+  }
+  .btn {
+    margin-top: 48px;
+  }
+  .btn .view {
+    padding: 16px 56px;
+    border-radius: 41px;
+    background: #fcd980;
+    color: #1b1c2b;
+    font-family: "Manrope", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; /* 177.778% */
+  }
+  .btn .price {
+    color: var(--White, #fff);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 175% */
+    position: absolute;
+    top: 617px;
+    margin-left: 40px;
+  }
+  .ban-icon{
+    margin-left: 5px;
+  }

@@ -1,0 +1,123 @@
+#steller {
+    padding-top: 128px;
+    padding-bottom: 128px;
+    position: relative;
+  }
+  .steller_img {
+    padding: 96px 96px 261px 96px;
+    background-image: linear-gradient(rgba(4, 9, 30, 0.4), rgba(4, 9, 30, 0.4)),
+      url(../../assets/woman-writing.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .steller_img h2 {
+    width: 464px;
+    color: var(--White, #fff);
+    font-family: "Poppins", sans-serif;
+    font-size: 54px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 74px; /* 137.037% */
+  }
+  .steller_img p {
+    width: 464px;
+    height: 85px;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 175% */
+    padding-top: 24px;
+  }
+  .blue_img {
+    padding: 96px 50px 48px 65px;
+    height: 100%;
+    background-color: #1c1e53;
+
+  }
+  .blue_img h3 {
+    width: 432px;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px; /* 150% */
+  }
+  .blue_img p {
+    width: 432px;
+    color: #f4f6fc;
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 175% */
+    padding-top: 16px;
+  }
+  .table .contact {
+    width: 430px;
+    height: 64px;
+    border-radius: 8px;
+    border: 1.5px solid rgba(255, 255, 255, 0.05);
+    padding-left: 25px;
+    font-weight: 500;
+    padding-bottom: 40px;
+    background-color: transparent;
+    padding: 18px 311px 18px 32px;
+    margin-top: 20px;
+  }
+  .table .contact_figma {
+    width: 430px;
+    height: 64px;
+    border-radius: 8px;
+    border: 1.5px solid rgba(255, 255, 255, 0.05);
+    padding-left: 25px;
+    font-weight: 500;
+    padding-bottom: 40px;
+    background-color: transparent;
+    padding: 18px 150px 18px 32px;
+    color: var(--Grey, #f4f6fc);
+    font-family: "Poppins", sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 175% */
+    margin-top: 20px;
+  }
+  .table button {
+    display: flex;
+    width: 432px;
+    height: 64px;
+    padding: 15px 51px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 41px;
+    background: #fcd980;
+    color: #1b1c2b;
+    font-family: "Manrope", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px; /* 177.778% */
+    margin-top: 37px;
+  }
+  .btn_touch {
+    position: absolute;
+    color: #fff;
+    font-family: "Poppins", sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    margin-left: 109px;
+    padding-top: 20px;
+    line-height: 32px; /* 177.778% */
+  }
+  .btn_touch i {
+    margin-left: 20px;
+  }
+  /* building staller part end */
+  
